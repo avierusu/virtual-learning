@@ -5,7 +5,6 @@
 import sys
 # Import support for images from pillow
 from PIL import Image
-# I had to manually disable the requirement for jpeg for this to work
 
 images = []
 
